@@ -4,8 +4,6 @@ package uk.ac.ncl.teach;
 import java.awt.*;
 import java.awt.geom.*;
 
-import uk.ac.ncl.teach.MoveableShape;
-
 public class CarShape implements MoveableShape {
     private int x;
     private int y;

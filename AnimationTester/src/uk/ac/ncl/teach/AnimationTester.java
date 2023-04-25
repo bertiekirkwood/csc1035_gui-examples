@@ -4,10 +4,6 @@ import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
 
-import uk.ac.ncl.teach.CarShape;
-import uk.ac.ncl.teach.MoveableShape;
-import uk.ac.ncl.teach.ShapeIcon;
-
 /**
  * This program implements an animation that moves a car shape.
  */
